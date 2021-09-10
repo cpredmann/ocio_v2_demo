@@ -1,0 +1,7 @@
+[
+{
+  "directory": "e:/GitHub/cpredmann/ocio_v2_demo/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2017\\COMMUN~1\\VC\\Tools\\MSVC\\1416~1.270\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IE:\\vfxplatform\\2021\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++17 /FoCMakeFiles\\DemoProgram.dir\\DemoProgram.cpp.obj /FdTARGET_COMPILE_PDB /FS -c E:\\GitHub\\cpredmann\\ocio_v2_demo\\DemoProgram.cpp",
+  "file": "E:/GitHub/cpredmann/ocio_v2_demo/DemoProgram.cpp"
+}
+]
